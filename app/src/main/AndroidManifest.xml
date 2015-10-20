@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ferch.chupipadiparty" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!--  -->
+
+
+        <!-- Activity principal de la aplicacion, falta por quitar el action bar -->
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/iniciar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- activity de nueva partida, inclida en la activiy principal -->
+        <activity
+            android:name=".nueva_partida"
+            android:label="@string/partidaNueva" >
+        </activity>
+
+        <!-- activity perteneciente al modo de juego, incluida en nueva partida -->
+        <activity
+            android:name=".personalizado"
+            android:label="@string/personalizado" >
+        </activity>
+
+        <!-- activity perteneciente al modo de juego Simon Says, inclida en nueva partida -->
+        <activity
+            android:name=".simon_says"
+            android:label="@string/simonSays" >
+        </activity>
+
+        <!--activity para el menu de entrenamiento, incluida en la activity principal  -->
+        <activity
+            android:name=".entrenamiento"
+            android:label="@string/entrenamiento">
+        </activity>
+    </application>
+
+</manifest>

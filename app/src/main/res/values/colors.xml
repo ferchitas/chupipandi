@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cageta">#670023</color>
+    
+    
+    //colores tema daltonicos verde-rojo
+    
+    <color name="azulOscuro">#044D7F</color>
+    <color name="azulClaro">#54B9FF</color>
+    <color name="verdeCesped">#00FF79</color>
+    <color name="amarilloCanario">#FFE500</color>
+    <color name="morado">#A400CC</color>
+
+    //colores tema daltonicos azul-amarillo
+
+    <color name="blanco">#FFFFFF</color>
+    <color name="naranjaOscuro">#FF5800</color>
+    <color name="verdeCesped1">#00FF79</color>
+    <color name="rojoPuro">#FF0009</color>
+    <color name="morado1">#B600CC</color>
+
+    //colores tema personas normales y escala de grises
+
+    <color name="azulCielo">#00FFE7</color>
+    <color name="verdeClaro">#59FF0A</color>
+    <color name="mango">#FFA907</color>
+    <color name="rojo">#E80042</color>
+    <color name="azulMorado">#3F06FF</color>
+</resources>
