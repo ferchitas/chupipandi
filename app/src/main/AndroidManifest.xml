@@ -49,7 +49,14 @@
         <!-- activity que reune todos los ajustes del juego -->
         <activity
             android:name=".Ajustes"
-            android:label="@string/ajustes">
+            android:label="@string/ajustes" >
+        </activity>
+
+        <!-- activity principal del juego el fantasma de la opera -->
+
+        <activity
+            android:name=".j_fantasma_opera"
+            android:label="@string/fantasmaOpera">
         </activity>
     </application>
 

@@ -19,7 +19,15 @@
         <string name="guest">Unirse a partida</string>
 
 
-    
+    <string name="fantasmaOpera">Fantasma de la opera</string>
+    <string name="alzaBandera">Alza la bandera</string>
+    <string name="Compositores">Compositores</string>
+    <!--
+    <string name=""></string>
+    <string name=""></string>
+    -->
+
+
     <string name="ajustes">Ajustes</string>     //los ajustes
 
         <string name="idioma">Idioma</string>
