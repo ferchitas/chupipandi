@@ -53,6 +53,7 @@
         <string name="juego11">descripcion del juego 11, aun por rellenar</string>
         <string name="juego12">descripcion del juego 12, aun por rellenar</string>
     <string name="title_activity_main2">Main2Activity</string>
-    
+    <string name="pref_previously_started" />
+
 
 </resources>
