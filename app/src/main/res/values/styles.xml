@@ -3,8 +3,9 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/azulClaro</item>
-        <item name="colorPrimaryDark">@color/azulOscuro</item>
+        <item name="colorPrimary">@color/morado1</item>
+        <item name="colorPrimaryDark">@color/morado</item>
+        <item name="android:windowBackground">@color/verdeCesped</item>
     </style>
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
