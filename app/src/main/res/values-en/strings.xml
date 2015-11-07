@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChupipandiParty</string>    //titulo del juego
+    <string name="partidaNueva">New game</string>  //boton de partida nueva
+
+    <string name="host">Create game</string>  //dentro de partida esta seria la opcion de actuar como host e ir editando todas las opciones de la partida
+
+    <string name="simonSays">Simon says</string>    //despues de esta ventana aparece otra en la que se ven los jugadores concentados y el juego se inicia
+    <string name="personalizado">custom</string>     //en esta opcion se puede editar todos los ajustes de una partida
+
+    <string name="modos">modes</string>     // los distintos modos de juego
+
+    <string name="perdedor">Looser</string>
+    <string name="normal">Regular</string>
+    //hay que poner mas modos de juego
+
+    <string name="tiempo">TIme</string>
+    <string name="iniciar">Start</string> //despues de esta ventana aparece otra en la que se ven los jugadores concentados y el juego se inicia
+
+    <string name="guest">Join game</string>
+
+
+    <string name="fantasmaOpera">The phantom of the opera</string>
+    <string name="alzaBandera">Raise the flag</string>
+    <string name="Compositores">Composers</string>
+    <!--
+    <string name=""></string>
+    <string name=""></string>
+    -->
+
+    <string name="tutorial">Tutorial</string>
+
+
+    <string name="ajustes">Settings</string>     //los ajustes
+
+    <string name="idioma">Language</string>
+    <string name="efectos">Sounds</string>
+    <string name="Audioguia">Audioguide</string>
+    <string name="cambiarColores">Set theme</string>
+    <string name="vibracion">Vibration</string>
+    <string name="musica">Music</string>
+    <string name="acercaDe">About</string>
+
+    <string name="entrenamiento">Training</string>     //paraa practicar todos los minijuegos
+
+    <string name="juego1">descripcion del juego 1, aun por rellenar</string>
+    <string name="juego2">descripcion del juego 2, aun por rellenar</string>
+    <string name="juego3">descripcion del juego 3, aun por rellenar</string>
+    <string name="juego4">descripcion del juego 4, aun por rellenar</string>
+    <string name="juego5">descripcion del juego 5, aun por rellenar</string>
+    <string name="juego6">descripcion del juego 6, aun por rellenar</string>
+    <string name="juego7">descripcion del juego 7, aun por rellenar</string>
+    <string name="juego8">descripcion del juego 8, aun por rellenar</string>
+    <string name="juego9">descripcion del juego 9, aun por rellenar</string>
+    <string name="juego10">descripcion del juego 10, aun por rellenar</string>
+    <string name="juego11">descripcion del juego 11, aun por rellenar</string>
+    <string name="juego12">descripcion del juego 12, aun por rellenar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="pref_previously_started" />
+</resources>

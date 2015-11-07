@@ -35,8 +35,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="vibracion"
-        android:id="@+id/button4"
+        android:text="@string/cambiarColores"
+        android:id="@+id/colores"
         android:layout_below="@+id/audioGuia"
         android:layout_centerHorizontal="true" />
 

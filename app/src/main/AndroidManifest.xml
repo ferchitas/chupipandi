@@ -16,13 +16,13 @@
             android:name=".MainActivity"
             android:label="@string/iniciar" >
             <intent-filter>
-             <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN" />
 
-             <category android:name="android.intent.category.LAUNCHER" />
-         </intent-filter>
-     </activity>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
-     <!-- activity de nueva partida, inclida en la activiy principal -->
+        <!-- activity de nueva partida, inclida en la activiy principal -->
         <activity
             android:name=".nueva_partida"
             android:label="@string/partidaNueva" >
@@ -63,12 +63,14 @@
 
         <activity
             android:name=".tutotial"
-            android:label="@string/tutorial">
+            android:label="@string/tutorial" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".idioma" >
         </activity>
     </application>
 
