@@ -58,4 +58,12 @@
     <string name="juego12">descripcion del juego 12, aun por rellenar</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="pref_previously_started" />
+
+   <string name="TTSexplicacion">This game implements an option which reads all texts shown in the screen, Do you want to activate it?</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+
+    <string name="acercaDtocho">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown
+        printer took a galley of type and scrambled it to make a type specimen book.</string>
 </resources>

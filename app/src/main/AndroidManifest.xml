@@ -72,6 +72,20 @@
         </activity>
         <activity android:name=".idioma" >
         </activity>
+        <activity android:name=".vibracion" >
+        </activity>
+        <activity android:name=".sonidos" >
+        </activity>
+        <activity android:name=".audioguia" >
+        </activity>
+        <activity android:name=".cambiarColores" >
+        </activity>
+        <activity android:name=".acercaDe" >
+        </activity>
+        <activity android:name=".musica" >
+        </activity>
+        <activity android:name=".activarTTS" >
+        </activity>
     </application>
 
 </manifest>
