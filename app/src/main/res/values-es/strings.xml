@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">ChupipandiPArty</string>    //titulo del juego
+    <string name="partidaNueva">Partida Nueva</string>  //boton de partida nueva
+    
+        <string name="host">Crear partida</string>  //dentro de partida esta seria la opcion de actuar como host e ir editando todas las opciones de la partida
+    
+            <string name="simonSays">Simon dice</string>    //despues de esta ventana aparece otra en la que se ven los jugadores concentados y el juego se inicia
+            <string name="personalizado">Personalizado</string>     //en esta opcion se puede editar todos los ajustes de una partida
+
+                <string name="modos">modos</string>     // los distintos modos de juego
+
+                    <string name="perdedor">Perdedor</string>
+                    <string name="normal">Normal</string>
+                    //hay que poner mas modos de juego
+    
+                <string name="tiempo">Tiempo</string>
+                <string name="iniciar">Iniciar</string> //despues de esta ventana aparece otra en la que se ven los jugadores concentados y el juego se inicia
+                    
+        <string name="guest">Unirse a partida</string>
+
+
+    <string name="fantasmaOpera">Fantasma de la opera</string>
+    <string name="alzaBandera">Alza la bandera</string>
+    <string name="Compositores">Compositores</string>
+    <!--
+    <string name=""></string>
+    <string name=""></string>
+    -->
+
+    <string name="tutorial">Tutorial</string>
+        <string name="bttemaN">Tema normal</string>
+        <string name="bttemaAM">Tema AM</string>
+        <string name="bttemaVR">Tema VR</string>
+
+    <string name="ajustes">Ajustes</string>     //los ajustes
+
+        <string name="idioma">Idioma</string>
+        <string name="efectos">Sonidos</string>
+        <string name="Audioguia">Audioguía</string>
+        <string name="cambiarColores">Cambiar colores</string>
+        <string name="vibracion">Vibración</string>
+        <string name="musica">Música</string>
+        <string name="acercaDe">Acerca de</string>
+
+    <string name="entrenamiento">Entrenamiento</string>     //paraa practicar todos los minijuegos
+
+        <string name="juego1">descripcion del juego 1, aun por rellenar</string>
+        <string name="juego2">descripcion del juego 2, aun por rellenar</string>
+        <string name="juego3">descripcion del juego 3, aun por rellenar</string>
+        <string name="juego4">descripcion del juego 4, aun por rellenar</string>
+        <string name="juego5">descripcion del juego 5, aun por rellenar</string>
+        <string name="juego6">descripcion del juego 6, aun por rellenar</string>
+        <string name="juego7">descripcion del juego 7, aun por rellenar</string>
+        <string name="juego8">descripcion del juego 8, aun por rellenar</string>
+        <string name="juego9">descripcion del juego 9, aun por rellenar</string>
+        <string name="juego10">descripcion del juego 10, aun por rellenar</string>
+        <string name="juego11">descripcion del juego 11, aun por rellenar</string>
+        <string name="juego12">descripcion del juego 12, aun por rellenar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="pref_previously_started" />
+
+
+
+    <string name="TTSexplicacion">Este juego implementea una opción de lectura de textos,
+        en el que todo texto que aparece es explicado, ¿deseas activarlo?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+
+    <string name="acercaDtocho">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos
+        de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,
+        cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería
+        de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.</string>
+
+
+
+</resources>
