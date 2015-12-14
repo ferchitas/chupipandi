@@ -10,7 +10,7 @@
     <TableLayout
         android:id="@+id/tableLayout1"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent" >
+        android:layout_height="wrap_content" >
 
         <TableRow
             android:id="@+id/tableRow1"
@@ -106,5 +106,9 @@
                 android:layout_margin="5dip"/>
         </TableRow>
     </TableLayout>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TableRow>
 
 </RelativeLayout>

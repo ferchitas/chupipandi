@@ -1,3 +1,27 @@
 <resources>>
 
+        <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+                <!-- Customize your theme here. -->
+                <item name="colorPrimary">@color/primaryN</item>
+                <item name="colorPrimaryDark">@color/primary_darkN</item>
+                <item name="android:windowBackground">@color/primary_lightN</item>
+                <item name="android:colorButtonNormal">@color/accentN</item>
+        </style>
+
+        <style name="AppThemeAA" parent="Theme.AppCompat.Light.DarkActionBar">
+                <!-- Customize your theme here. -->
+                <item name="colorPrimary">@color/primaryAA</item>
+                <item name="colorPrimaryDark">@color/primary_darkAA</item>
+                <item name="android:windowBackground">@color/primary_lightAA</item>
+                <item name="android:colorButtonNormal">@color/accentAA</item>
+        </style>
+
+        <style name="AppThemeRV" parent="Theme.AppCompat.Light.DarkActionBar">
+                <!-- Customize your theme here. -->
+                <item name="colorPrimary">@color/primaryVR</item>
+                <item name="colorPrimaryDark">@color/primary_darkVR</item>
+                <item name="android:windowBackground">@color/primary_lightVR</item>
+                <item name="android:colorButtonNormal">@color/accentVR</item>
+
+        </style>
 </resources>

@@ -14,6 +14,7 @@
     <color name="amarilloCanario">#FFE500</color>
     <color name="morado">#A400CC</color>
 
+
     //colores tema daltonicos azul-amarillo
 
     <color name="blanco">#FFFFFF</color>
@@ -21,6 +22,14 @@
     <color name="verdeCesped1">#00FF79</color>
     <color name="rojoPuro">#FF0009</color>
     <color name="morado1">#B600CC</color>
+    <color name="primaryAM">#FF9800</color>
+    <color name="primary_darkAM">#F57C00</color>
+    <color name="primary_lightAM">#FFE0B2</color>
+    <color name="accentAM">#7C4DFF</color>
+    <color name="primary_textAM">#212121</color>
+    <color name="secondary_textAM">#727272</color>
+    <color name="iconsAM">#212121</color>
+    <color name="dividerAM">#B6B6B6</color>
 
     //colores tema personas normales y escala de grises
 
@@ -29,4 +38,42 @@
     <color name="mango">#FFA907</color>
     <color name="rojo">#E80042</color>
     <color name="azulMorado">#3F06FF</color>
+
+
+
+    <color name="gris">#9E9E9E</color>
+    <color name="amarillo">#FFEB3B</color>
+
+
+    <color name="primaryN">#03A9F4</color>
+    <color name="primary_darkN">#0288D1</color>
+    <color name="primary_lightN">#B3E5FC</color>
+    <color name="accentN">#FFEB3B</color>
+    <color name="primary_textN">#212121</color>
+    <color name="secondary_textN">#727272</color>
+    <color name="iconsN">#FFFFFF</color>
+    <color name="dividerN">#B6B6B6</color>
+
+
+    <color name="primaryAA">#4CAF50</color>
+    <color name="primary_darkAA">#388E3C</color>
+    <color name="primary_lightAA">#C8E6C9</color>
+    <color name="accentAA">#795548</color>
+    <color name="primary_textAA">#212121</color>
+    <color name="secondary_textAA">#727272</color>
+    <color name="iconsAA">#FFFFFF</color>
+    <color name="dividerAA">#B6B6B6</color>
+
+
+    <color name="primaryVR">#2196F3</color>
+    <color name="primary_darkVR">#1976D2</color>
+    <color name="primary_lightVR">#BBDEFB</color>
+    <color name="accentVR">#7C4DFF</color>
+    <color name="primary_textVR">#212121</color>
+    <color name="secondary_textVR">#727272</color>
+    <color name="iconsVR">#FFFFFF</color>
+    <color name="dividerVR">#B6B6B6</color>
+
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
 </resources>

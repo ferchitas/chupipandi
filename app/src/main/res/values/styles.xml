@@ -4,24 +4,27 @@
         <item name="windowNoTitle">true</item>-->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/morado1</item>
-        <item name="colorPrimaryDark">@color/morado</item>
-        <item name="android:windowBackground">@color/verdeCesped</item>
+        <item name="colorPrimary">@color/primaryN</item>
+        <item name="colorPrimaryDark">@color/primary_darkN</item>
+        <item name="android:windowBackground">@color/primary_lightN</item>
     </style>
 
     <style name="AppThemeRV" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/azulOscuro</item>
-        <item name="colorPrimaryDark">@color/rojoPuro</item>
-        <item name="android:windowBackground">@color/amarilloCanario</item>
+        <item name="colorPrimary">@color/primaryVR</item>
+        <item name="colorPrimaryDark">@color/primary_darkVR</item>
+        <item name="android:windowBackground">@color/primary_lightVR</item>
+
     </style>
 
-    <style name="AppThemeAM" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppThemeAA" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/cageta</item>
-        <item name="colorPrimaryDark">@color/azulClaro</item>
-        <item name="android:windowBackground">@color/naranjaOscuro</item>
+        <item name="colorPrimary">@color/primaryAA</item>
+        <item name="colorPrimaryDark">@color/primary_darkAA</item>
+        <item name="android:windowBackground">@color/primary_lightAA</item>
     </style>
+
+
 
 
 

@@ -7,62 +7,65 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="com.example.ferch.chupipadiparty.Ajustes">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/idioma"
-        android:id="@+id/idioma"
-        android:layout_below="@+id/vibracion"
-        android:layout_alignLeft="@+id/efectos"
-        android:layout_alignStart="@+id/efectos" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="0">
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/efectos"
-        android:id="@+id/efectos"
-        android:layout_below="@+id/idioma"
-        android:layout_centerHorizontal="true" />
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+            android:text="@string/idioma"
+            android:id="@+id/idioma"
+             />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/Audioguia"
-        android:id="@+id/audioGuia"
-        android:layout_below="@+id/efectos"
-        android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/efectos"
+            android:id="@+id/efectos"
+        />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/cambiarColores"
-        android:id="@+id/colores"
-        android:layout_below="@+id/audioGuia"
-        android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/Audioguia"
+            android:id="@+id/audioGuia"
+        />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/vibracion"
-        android:id="@+id/vibracion"
-        android:layout_alignParentTop="true"
-        android:layout_alignRight="@+id/idioma"
-        android:layout_alignEnd="@+id/idioma" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/cambiarColores"
+            android:id="@+id/colores"
+        />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/musica"
-        android:id="@+id/musica"
-        android:layout_below="@+id/colores"
-        android:layout_alignLeft="@+id/efectos"
-        android:layout_alignStart="@+id/efectos" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/vibracion"
+            android:id="@+id/vibracion"
+/>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/acercaDe"
-        android:id="@+id/acercaDe"
-        android:layout_below="@+id/musica"
-        android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/musica"
+            android:id="@+id/musica"
+/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/acercaDe"
+            android:id="@+id/acercaDe" />
+    </LinearLayout>
 </RelativeLayout>
